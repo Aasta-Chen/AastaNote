@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hexo server 顯示卡關</title>
-    <url>/AastaNote/2024/06/08/%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%97%9C/</url>
-    <content><![CDATA[<p>
-在安裝 Hexo 過程中，按照老師步驟，成功安裝 Node.js 和 npm (版本資訊有成功出現)，但輸入安裝 hexo server 指令時，卻出現 https://hexo.io/docs/ 的訊息(如圖)，無法訪問網站。
-在 Discord 上發問，經過同學的熱心解答，我終於知道為什麼了</p>
+    <title>Figma UI/UX 設計師首選的協作軟體</title>
+    <url>/AastaNote/2024/06/16/%E8%A8%AD%E8%A8%88%E7%B7%9A%E4%B8%8A%E5%AF%A6%E6%88%B0%E7%87%9F/</url>
+    <content><![CDATA[<h2 id="什麼是-Figma？"><a href="#什麼是-Figma？" class="headerlink" title="什麼是 Figma？"></a>什麼是 Figma？</h2><p>Figma 是一個向量圖形編輯器和原型設計工具。在 UI/UX 設計領域裡是設計師的首選工具。<br>操作界面直觀又易於上手。裡面擁有豐富的外掛擴充資源，在設計功能有向量繪圖、原型 Prototype 製作等。這些工具適合個人設計師，也適合多人協作工作中。</p>
 
-<img src="https://firebasestorage.googleapis.com/v0/b/aastanote.appspot.com/o/hexo%20not%20show.png?alt=media&token=5381ee3a-900f-4df0-b5d7-c8c77bde35c3" alt="Hexo 無法訪問網站">
+<h2 id="Figma-優點與特色"><a href="#Figma-優點與特色" class="headerlink" title="Figma 優點與特色"></a>Figma 優點與特色</h2><h3 id="跨平台裝置"><a href="#跨平台裝置" class="headerlink" title="跨平台裝置"></a>跨平台裝置</h3><p>Figma 是 browser-base，不管是 Windows 或是 Mac 系統，只要能連上網就能使用，完全不受限於系統，也提供手機 APP 下載觀看操作。檔案可選擇儲存在雲端，也可選擇存檔在本機上做備份。</p>
 
-<p>因為我少了 node_modules 資料夾，於是需要進行安裝，所以輸入 sudo npm install 後，就能順利安裝 node_modules，一安裝完成後，順利排除問題，可在本機上看到網站</p>]]></content>
+<h3 id="線上多人協作功能"><a href="#線上多人協作功能" class="headerlink" title="線上多人協作功能"></a>線上多人協作功能</h3><p>Figma 能同時讓多人在單一檔案裡工作，可看見其它人同時進行設計的部分，避免重複設計的問題，檔案永遠只需要一份。在設計完稿後，可分享連結提供相關合作同事看見設計結果，進行討論。
+另外同事可直接下註解在設計稿上，提供反饋，大幅降低來回的溝通成本。</p>
+
+<h3 id="原型-Prototype"><a href="#原型-Prototype" class="headerlink" title="原型 Prototype"></a>原型 Prototype</h3><p>Figma 內建的原型 Prototype 功能非常完整，界面直觀、易於上手。在預覽時也可以加上比如電腦或手機外殼。可以輕鬆達到不錯的動態效果。</p>
+
+<h3 id="外掛擴充資源-社群"><a href="#外掛擴充資源-社群" class="headerlink" title="外掛擴充資源 &amp; 社群"></a>外掛擴充資源 &amp; 社群</h3> <p>Figma 擁有豐富的外掛 Plugins，在 Marketplace 上提供免費商用外掛，很容易尋找與安裝。利用各種外掛提高設計工作效率。<br>Figma 有廣大的社群 Community，在社群裡大家都積極地相互解答和交流。當設計師缺乏靈感時，也很適合到這尋找設計資源，比如設計靈感、設計系統、網頁設計等。<br>
+ 在 Community 找到合適的設計稿後，按下複製後，這份設計稿就會直接複製到你的草稿裡，全世界設計師的創作任你使用。
+ </p>
+]]></content>
       <tags>
-        <tag>hexo</tag>
-        <tag>六角學院 2024 軟體工程師體驗營</tag>
+        <tag>Figma</tag>
       </tags>
   </entry>
   <entry>
@@ -84,7 +89,24 @@ Hexo 極速免費架站全攻略，如何操作終端機打指令，GitHub Pages
 <p>非常感謝老師以及助教們，超級用心與辛苦！</p>]]></content>
       <tags>
         <tag>hexo</tag>
-        <tag>六角學院 2024 軟體工程師體驗營</tag>
+        <tag>六角學院</tag>
+        <tag>2024 軟體工程師體驗營</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hexo server 顯示卡關</title>
+    <url>/AastaNote/2024/06/08/%E9%A1%AF%E7%A4%BA%E5%8D%A1%E9%97%9C/</url>
+    <content><![CDATA[<p>
+在安裝 Hexo 過程中，按照老師步驟，成功安裝 Node.js 和 npm (版本資訊有成功出現)，但輸入安裝 hexo server 指令時，卻出現 https://hexo.io/docs/ 的訊息(如圖)，無法訪問網站。
+在 Discord 上發問，經過同學的熱心解答，我終於知道為什麼了</p>
+
+<img src="https://firebasestorage.googleapis.com/v0/b/aastanote.appspot.com/o/hexo%20not%20show.png?alt=media&token=5381ee3a-900f-4df0-b5d7-c8c77bde35c3" alt="Hexo 無法訪問網站">
+
+<p>因為我少了 node_modules 資料夾，於是需要進行安裝，所以輸入 sudo npm install 後，就能順利安裝 node_modules，一安裝完成後，順利排除問題，可在本機上看到網站</p>]]></content>
+      <tags>
+        <tag>hexo</tag>
+        <tag>六角學院</tag>
+        <tag>2024 軟體工程師體驗營</tag>
       </tags>
   </entry>
 </search>
